@@ -1,0 +1,4 @@
+1. Add an option to resume from a previous save spot
+2. Add an option to save current reading to file for later
+3. Update manual test plan
+4. Change input boxes to sliders for speed, number of words
